@@ -69,7 +69,6 @@ public class MainActivity extends AppCompatActivity {
         if (!palabraConGuiones.contains("_")) {
             pintaFallos(-1);
             bloqueaBotones();
-
         }
     }
 
